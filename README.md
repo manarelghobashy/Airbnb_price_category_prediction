@@ -23,6 +23,8 @@ Predicting the actual price could be simple, so we cut the pricing into 3 differ
    - convert each text into a unique id sequence.
 
 3. build models and plot them:
-   - train each model.
-   - plot each model on training loss and validation loss.
-   - plot each model on training accuracy and validation accuracy.
+    - train each model.
+    - plot each model on training loss and validation loss.
+    - plot each model on training accuracy and validation accuracy.
+  
+      
