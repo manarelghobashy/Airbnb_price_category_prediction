@@ -28,3 +28,6 @@ Predicting the actual price could be simple, so we cut the pricing into 3 differ
     - plot each model on training accuracy and validation accuracy.
   
       
+- Data from: https://www.kaggle.com/competitions/copy-of-cisc-873-dm-w23-a4/data?select=a4
+
+  
